@@ -1,197 +1,181 @@
-# [Material Dashboard React Nodejs](https://www.creative-tim.com/live/material-dashboard-react-nodejs) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.creative-tim.com%2Fmaterial-dashboard-react-nodejs%20%20Material%20Dashboard%20React%20Nodejs%20is%20a%20Free%20Frontend%20Preset%20for%20Nodejs%20%E2%9D%A4%EF%B8%8F&source=webclient)
+# [Paper Dashboard Angular](https://www.creative-tim.com/product/paper-dashboard-angular)
+![version](https://img.shields.io/badge/version-2.2.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/paper-dashboard-angular.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-dashboard-angular.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react-nodejs.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react-nodejs.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/paper-dashboard-angular.gif)
 
-![Product Gif](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-react-nodejs/material-dashboard-react-nodejs.gif)
+Paper Dashboard Angular is a Bootstrap Admin Template which combines soft colors with beautiful typography and spacious cards and graphics. It was built on top of Google's [Angular Framework](https://angular.io/) and the HTML version of [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard). It is a powerful dashboard but it is light and easy to be used. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific component.
 
-Start your development with Material Dashboard React Nodejs, a free Material-UI Admin built for Node.js framework, the newest go-to technology for top companies. [Creative Tim](https://www.creative-tim.com/) partnered with [Udevoffice](https://udevoffice.com/) to provide a fully coded “frontend + backend” solution for you. It features a huge number of components that can help you create amazing websites and brings with itself innumerable advantages: the lightweight, fast, scalable and modern way to execute your next top app. 
+ We like consistency and design that blends into its purpose. Paper Dashboard Angular is a perfect example of our most thoughtful work. It combines over a dozen components and plugins, while looking like everything fits together. For an easy start or inspiration for you project, we have also create a set of example pages, like the user settings or usage graphics.
 
-**Material Dashboard React Nodejs** comes with 30 implemented frontend components, which you can combine and modify to your liking using SASS files. Every element has multiple states for colour, style, hover and focus. Material Dashboard Laravel uses a framework built by our friend [Federico - Bootstrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/), who did an amazing job creating the backbone for the material effects, animations, ripples, and transitions. Big thanks to his team for the effort and forward thinking they put into it. The package saves you tons of time. Instead of investing time in doing the frontend-backend integration, you have a boilerplate which does the heavy lifting for you. 
+ Paper Dashboard Angular is built using the same design language as [Paper Kit](http://www.creative-tim.com/product/paper-kit), which you can use for the presentation pages of your website. You can easily use them together, or pick between them depending on the project you have.
 
-**COMPLEX DOCUMENTATION** 
+ **Example Pages** We wanted to fully display the power of this dashboard, so the kit comes packed with examples showing you how to use the components.
 
-Each element is well presented in very complex documentation. You can check the components [here](https://www.creative-tim.com/live/material-dashboard-react-nodejs/?start-page=documentation/buttons) and the foundation. 
+ ## Table of Contents
 
-**Example Pages** 
+ * [Versions](#versions)
+ * [Demo](#demo)
+ * [Quick Start](#quick-start)
+ * [Documentation](#documentation)
+ * [File Structure](#file-structure)
+ * [Browser Support](#browser-support)
+ * [Resources](#resources)
+ * [Reporting Issues](#reporting-issues)
+ * [Technical Support or Questions](#technical-support-or-questions)
+ * [Licensing](#licensing)
+ * [Useful Links](#useful-links)
 
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project. View example pages [here](https://www.creative-tim.com/live/material-dashboard-react-nodejs/). 
+ ## Versions
 
-Special thanks go to:
-+ [React-chartist](https://github.com/fraserxu/react-chartist) for the wonderful charts.
+ [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-dashboard-2)
+ [<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-dashboard-angular)
+ [<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/paper-dashboard-react)
 
-We are very excited to share this dashboard with you and we look forward to hearing your feedback!
+ | HTML | Angular | React |
+ | --- | --- | --- |
+ | [![Paper Dashboard 2 HTML](https://s3.amazonaws.com/creativetim_bucket/products/86/thumb/opt_pd2_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-2) | [![Paper Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/58/thumb/opt_pd_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-angular) | [![Paper Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/98/thumb/opt_pd_react_thumbnail.jpg)](https://www.creative-tim.com/product/paper-dashboard-react) |
 
-## Table of Contents
+ ## Demo
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+ | Dashboard | User Profile | Tables | Icons | Notifications |
+ | --- | --- | --- | --- | --- |
+ | [![Start page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/dashboard.png?raw=true)](https://demos.creative-tim.com/paper-dashboard-angular/#/dashboard) | [![User profile page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/user-profile.png?raw=true)](https://demos.creative-tim.com/paper-dashboard-angular/#/user-profile) | [![Tables page ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/tables.png?raw=true)](https://demos.creative-tim.com/paper-dashboard-angular/#/table-list) | [![Icons Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/icons.png?raw=true)](https://demos.creative-tim.com/paper-dashboard-angular/#/maps) | [![Notifications page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-angular/notifications.png?raw=true)](https://demos.creative-tim.com/paper-dashboard-angular/#/notifications)
 
-
-## Versions
-
-[<img src="material-dashboard-react-app/src/assets/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react-nodejs)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react-nodejs)
-
-| React & Nodejs |
-| --- |
-| [![Material Dashboard React Nodejs](https://s3.amazonaws.com/creativetim_bucket/products/157/thumb/opt_md_react_node_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-react-nodejs) 
-
-## Demo
-
-| Dashboard | User Profile | Tables | Notification |
-| --- | --- | --- | --- |
-| [![Start page](material-dashboard-react-app/src/assets/github/dashboard.png)](https://www.creative-tim.com/live/material-dashboard-react-nodejs/dashboard) | [![User profile page](material-dashboard-react-app/src/assets/github/user.png)](https://www.creative-tim.com/live/material-dashboard-react-nodejs/user) | [![Tables page ](material-dashboard-react-app/src/assets/github/tables.png)](https://www.creative-tim.com/live/material-dashboard-react-nodejs/table) | [![Notification page](material-dashboard-react-app/src/assets/github/notifications.png)](https://www.creative-tim.com/live/material-dashboard-react-nodejs/notifications)
-
-[View More](https://www.creative-tim.com/live/material-dashboard-react-nodejs/dashboard).
+ [View More](https://demos.creative-tim.com/paper-dashboard-angular/#/dashboard).
 
 
 ## Quick start
 
 Quick start options:
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react-nodejs.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react-nodejs/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-react-nodejs).
-- Follow the [tutorial] (https://medium.com/udevoffice/how-to-setup-a-development-environment-using-node-js-and-docker-material-dashboard-react-d4a16220c759)
+- [Download from Creative Tim](https://www.creative-tim.com/product/paper-dashboard-angular).
 
+## Terminal Commands
 
-## Documentation
-The documentation for the Material Dashboard React Nodejs is hosted at our [website](https://www.creative-tim.com/live/material-dashboard-react-nodejs/?start-page=documentation/buttons).
+1. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
+2. Open Terminal
+3. Go to your file project
+4. Run in terminal: ```npm install -g @angular/cli```
+5. Then: ```npm install```
+6. And: ```ng serve```
+7. Navigate to: [http://localhost:4200/](http://localhost:4200/)
 
-
-## File Structure
+### What's included
 
 Within the download you'll find the following directories and files:
 
 ```
-material-dashboard-react-app
-.
+paper-dashboard-angular
 ├── CHANGELOG.md
-├── ISSUE_TEMPLATE.md
+├── ISSUES_TEMPLATE.md
 ├── LICENSE.md
 ├── README.md
-├── bower.json
-├── package.json
+├── angular.json
+├── browserslist
 ├── documentation
-│   ├── assets
 │   └── tutorial-components.html
-├── public
+├── e2e
+├── karma.conf.js
+├── package-lock.json
+├── package.json
+├── protractor.conf.js
+├── src
+│   ├── app
+│   │   ├── app.component.css
+│   │   ├── app.component.html
+│   │   ├── app.component.spec.ts
+│   │   ├── app.component.ts
+│   │   ├── app.module.ts
+│   │   ├── app.routing.ts
+│   │   ├── layouts
+│   │   │   └── admin-layout
+│   │   │       ├── admin-layout.component.html
+│   │   │       ├── admin-layout.component.scss
+│   │   │       ├── admin-layout.component.spec.ts
+│   │   │       ├── admin-layout.component.ts
+│   │   │       ├── admin-layout.module.ts
+│   │   │       └── admin-layout.routing.ts
+│   │   ├── pages
+│   │   │   ├── dashboard
+│   │   │   │   ├── dashboard.component.html
+│   │   │   │   └── dashboard.component.ts
+│   │   │   ├── icons
+│   │   │   │   ├── icons.component.html
+│   │   │   │   └── icons.component.ts
+│   │   │   ├── maps
+│   │   │   │   ├── maps.component.html
+│   │   │   │   └── maps.component.ts
+│   │   │   ├── notifications
+│   │   │   │   ├── notifications.component.html
+│   │   │   │   └── notifications.component.ts
+│   │   │   ├── table
+│   │   │   │   ├── table.component.html
+│   │   │   │   └── table.component.ts
+│   │   │   ├── typography
+│   │   │   │   ├── typography.component.html
+│   │   │   │   └── typography.component.ts
+│   │   │   ├── upgrade
+│   │   │   │   ├── upgrade.component.html
+│   │   │   │   └── upgrade.component.ts
+│   │   │   └── user
+│   │   │       ├── user.component.html
+│   │   │       └── user.component.ts
+│   │   ├── shared
+│   │   │   ├── fixedplugin
+│   │   │   │   ├── fixedplugin.component.html
+│   │   │   │   ├── fixedplugin.component.ts
+│   │   │   │   └── fixedplugin.module.ts
+│   │   │   ├── footer
+│   │   │   │   ├── footer.component.html
+│   │   │   │   ├── footer.component.ts
+│   │   │   │   └── footer.module.ts
+│   │   │   └── navbar
+│   │   │       ├── navbar.component.html
+│   │   │       ├── navbar.component.ts
+│   │   │       └── navbar.module.ts
+│   │   └── sidebar
+│   │       ├── sidebar.component.html
+│   │       ├── sidebar.component.ts
+│   │       └── sidebar.module.ts
+│   ├── assets
+│   │   ├── css
+│   │   ├── fonts
+│   │   ├── img
+│   │   └── scss
+│   │       ├── paper-dashboard
+│   │       └── paper-dashboard.scss
+│   ├── environments
 │   ├── favicon.ico
 │   ├── index.html
-│   └── manifest.json
-└── src
-    ├── index.js
-    ├── logo.svg
-    ├── routes.js
-    ├── assets
-    │   ├── css
-    │   ├── github
-    │   ├── img
-    │   │   └── faces
-    │   └── jss
-    │       ├── material-dashboard-react
-    │       │   ├── components
-    │       │   ├── layouts
-    │       │   └── views
-    │       └── material-dashboard-react.jsx
-    ├── components
-    │   ├── Card
-    │   │   ├── Card.jsx
-    │   │   ├── CardAvatar.jsx
-    │   │   ├── CardBody.jsx
-    │   │   ├── CardFooter.jsx
-    │   │   ├── CardHeader.jsx
-    │   │   └── CardIcon.jsx
-    │   ├── CustomButtons
-    │   │   └── Button.jsx
-    │   ├── CustomInput
-    │   │   └── CustomInput.jsx
-    │   ├── CustomTabs
-    │   │   └── CustomTabs.jsx
-    │   ├── FixedPlugin
-    │   │   └── FixedPlugin.jsx
-    │   ├── Footer
-    │   │   └── Footer.jsx
-    │   ├── Grid
-    │   │   ├── GridContainer.jsx
-    │   │   └── GridItem.jsx
-    │   ├── Navbars
-    │   │   ├── AdminNavbarLinks.jsx
-    │   │   ├── Navbar.jsx
-    │   │   └── RTLNavbarLinks.jsx
-    │   ├── Sidebar
-    │   │   └── Sidebar.jsx
-    │   ├── Snackbar
-    │   │   ├── Snackbar.jsx
-    │   │   └── SnackbarContent.jsx
-    │   ├── Table
-    │   │   └── Table.jsx
-    │   ├── Tasks
-    │   │   └── Tasks.jsx
-    │   └── Typography
-    │       ├── Danger.jsx
-    │       ├── Info.jsx
-    │       ├── Muted.jsx
-    │       ├── Primary.jsx
-    │       ├── Quote.jsx
-    │       ├── Success.jsx
-    │       └── Warning.jsx
-    ├── layouts
-    │   ├── Admin.jsx
-    │   └── RTL.jsx
-    ├── variables
-    │   ├── charts.jsx
-    │   └── general.jsx
-    └── views
-        ├── Dashboard
-        │   └── Dashboard.jsx
-        ├── Icons
-        │   └── Icons.jsx
-        ├── Maps
-        │   └── Maps.jsx
-        ├── Notifications
-        │   └── Notifications.jsx
-        ├── RTLPage
-        │   └── RTLPage.jsx
-        ├── TableList
-        │   └── TableList.jsx
-        ├── Typography
-        │   └── Typography.jsx
-        ├── UpgradeToPro
-        │   └── UpgradeToPro.jsx
-        └── UserProfile
-            └── UserProfile.jsx
+│   ├── main.ts
+│   ├── polyfills.ts
+│   ├── styles.css
+│   ├── test.ts
+│   ├── tsconfig.app.json
+│   ├── tsconfig.spec.json
+│   └── typings.d.ts
+├── tsconfig.json
+└── tslint.json
 ```
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="material-dashboard-react-app/src/assets/github/chrome.png" width="64" height="64"> <img src="material-dashboard-react-app/src/assets/github/firefox.png" width="64" height="64"> <img src="material-dashboard-react-app/src/assets/github/edge.png" width="64" height="64"> <img src="material-dashboard-react-app/src/assets/github/safari.png" width="64" height="64"> <img src="material-dashboard-react-app/src/assets/github/opera.png" width="64" height="64">
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 
 ## Resources
-- Demo: https://www.creative-tim.com/live/material-dashboard-react-nodejs
-- Download Page: https://www.creative-tim.com/product/material-dashboard-react-nodejs
-- Documentation: https://www.creative-tim.com/live/material-dashboard-react-nodejs/documentation/tutorial
+- Demo: https://demos.creative-tim.com/paper-dashboard-angular/#/dashboard
+- Download Page: https://www.creative-tim.com/product/paper-dashboard-angular
+- Documentation: https://demos.creative-tim.com/paper-dashboard-angular/#/documentation/tutorial
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues)
-- [Material Kit React - For Front End Development](https://www.creative-tim.com/product/material-kit-react?ref=github-mdr-free)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-dashboard-angular/issues)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Paper Dashboard Angular. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the Paper Dashboard Angular. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -201,8 +185,8 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react-nodejs/blob/master/LICENSE.md)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com)
+- Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard-angular/blob/master/LICENSE.md)
 
 ## Useful Links
 
